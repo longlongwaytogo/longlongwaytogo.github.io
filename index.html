@@ -93,4 +93,23 @@ comments: false
     </div>
     <!-- /pagination -->
 </section>
+<section>
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+
+<script>
+var gitment = new Gitment({
+ id: '页面 ID', // 可选。默认为 location.href
+ owner: '16498273',
+ repo: '存储评论的 repo',
+ oauth: {
+ client_id: '44c94f42ed1a136847bc',
+ client_secret: 'b3bf21881a298c95b5e9eba1dba6ac25d5d95a29',
+ },
+})
+gitment.render('container')
+</script>
+</section>
 <!-- /section.content -->
