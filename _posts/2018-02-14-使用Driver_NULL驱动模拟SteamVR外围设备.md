@@ -1,3 +1,12 @@
+
+---
+layout: post
+title: 使用Driver_NULL驱动模拟SteamVR外围设备
+categories: [VR]
+description: 使用Driver_NULL驱动模拟SteamVR外围设备
+keywords: VR,OpenVR, SteamVR 
+---
+
 Driver_NULL 模式是SteamVR用于编写其他设备的示例程序，同时也可以使用它来在没有安装VR设备的PC上调试运行我们的程序。以下是streamVR 配置说明：
 
 [https://developer.valvesoftware.com/wiki/SteamVR/steamvr.vrsettings](https://developer.valvesoftware.com/wiki/SteamVR/steamvr.vrsettings)
