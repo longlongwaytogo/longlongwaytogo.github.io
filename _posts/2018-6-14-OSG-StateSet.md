@@ -12,10 +12,10 @@ from:[http://www.bricoworks.com/articles/stateset/stateset.html]()
  ## **你一直想直到的关于StateSet的一切（但不敢来问**  
  作者： Tim Moore  
 翻译：longlongwaytogo   
-一些名词翻译： 
-	    Open Scene Graph： OSG
-    	scene graph ：场景树
-		XXgraph state ：状态树
+###一些名词翻译：   
+	    Open Scene Graph： OSG  
+    	scene graph ：场景树   
+		graph state ：状态树  
    
    对于OSG的优化策略，最好的办法就是降低OpenGL切换状态的次数，OpenGL被定义为一个复杂的状态机，其状态包含了能够影响多边形被绘制的所有内容。构成状态的值，从很容易使用on/off进行切换的状态值（如，启用深度测试（depth test)或者光照（lighting)),到涉及占用图形处理器数千或数百万字节存储单元且具有复杂结构类型的值（如，纹理和着色器程序).即使OpenGL驱动程序可能不需要将所有的的数据重新传输到显卡来改变状态，但它依然很昂贵。通常，当状态改变时，GPU上的所有渲染必须停止。更改着色器或者纹理的设置，可能需要更长的时间。  
 
