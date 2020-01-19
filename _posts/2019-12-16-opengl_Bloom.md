@@ -38,3 +38,15 @@ Bloom，中文翻译为全局泛光，或者也成为了glow(辉光),他可以�
 [跨平台渲染引擎之路--Rendering Path](https://zhuanlan.zhihu.com/p/58817407)
 
 ---------------------------------------------------------------------------------------
+
+[sampling-theory-to-real-time-graphics](https://mynameismjp.wordpress.com/2012/10/21/applying-sampling-theory-to-real-time-graphics/)
+[processing-filter-in-glsl](http://www.geeks3d.com/20100909/shader-library-gaussian-blur-post-processing-filter-in-glsl/)
+[quick-gaussian-filtering](https://www.realtimerendering.com/blog/quick-gaussian-filtering/)
+[image_filtering_](http://www.ozone3d.net/tutorials/image_filtering_p2.php#part_2)
+[how-to-do-good-bloom-for-hdr-rendering](https://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/)
+[gpu pro3_CryEngine3:ThreeYearsOfWorkInReview](https://blog.csdn.net/toughbro/article/details/7391961)
+[hdr-bloom-with-rgbm-encoding-format](https://www.gamedev.net/forums/topic/631659-hdr-bloom-with-rgbm-encoding-format/)
+[efficient-gaussian-blur-with-linear-sampling](http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)
+[](https://blog.csdn.net/heiheiya/article/details/80922238)
+[OpenGL纹理滤波](https://blog.csdn.net/horson19/article/details/81781636)
+[纹理采样](https://www.cnblogs.com/tectal/p/10138432.html)
