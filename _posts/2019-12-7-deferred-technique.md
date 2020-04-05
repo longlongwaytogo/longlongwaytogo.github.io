@@ -30,4 +30,5 @@ Deferred lighting可以在DirectX9硬件上与MSAA一起使用。
 [Deferred Shading 延迟着色（翻译）](https://www.cnblogs.com/gozili/p/9558580.html)
 [Deferred Shading VS Deferred Lighting](https://blog.csdn.net/bugrunner/article/details/7436600)
 [osg deferred rendering](https://pdfs.semanticscholar.org/c9df/de95975ab241c42d96450dba2902029c3a64.pdf)
+[](http://publications.lib.chalmers.se/records/fulltext/219034/219034.pdf)
 ---------------------------------------------------------------------------------------
